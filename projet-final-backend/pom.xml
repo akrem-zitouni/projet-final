@@ -18,9 +18,10 @@
 
 	<properties>
 		
-		<sonar.projectKey>akrem-zitouni_projet-final</sonar.projectKey>
+	 <sonar.projectKey>akrem-zitouni_projet-final</sonar.projectKey>
   <sonar.organization>akrem-zitouni</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>2802932233de18395f8c2fc5b8f246f4743eae2c</sonar.login>
 		<java.version>11</java.version>
 	</properties>
 
